@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">simpleAndroidApp</string>
+    <string name="menu_settings">Settings</string>
+
+    <!-- button -->
+    <!-- main page button -->
+    <string name="Button_toast">toast</string>
+    <string name="Button_jni">JNI</string>
+    <string name="Button_getevent">getevent</string>
+    <string name="Button_shell">shell</string>
+    <string name="Button_su">su</string>
+    <string name="Button_service">service</string>
+    <string name="Button_poweroff">power off</string>
+    <string name="Button_wifi">WiFi</string>
+    <string name="Button_bt">BT</string>
+    <string name="Button_pm">PM</string>
+    <string name="Button_keyevent">keyEvent</string>
+    <string name="Button_hidread">hidRead</string>
+    <string name="Button_settings">settings</string>
+    <string name="Button_stop">Stop</string>
+    
+    <!-- wifi page button -->
+    <string name="Button_wifi_info">WIFI info</string>
+    <string name="Button_p2p_info">P2P info</string>
+    <string name="Button_wifi_scan">scan</string>
+
+    <!-- bt page button -->
+    <string name="Button_bt_socket">socket</string>
+    <string name="Button_bt_hidWrite">hidW</string>
+    <string name="Button_bt_hidRead">hidR</string>
+
+    <!-- pm page button -->
+    <string name="Button_isScreenOn">isScreenOn</string>
+    <string name="Button_goToSleep">goToSleep</string>
+    <string name="Button_wakeUp">wakeUp</string>
+    <string name="Button_reboot">reboot</string>
+    <string name="Button_back">back</string>
+    <string name="Button_clean">clean</string>
+
+    <!-- button -->
+
+    <string name="ToggleButton_wifi">WIFI ToggleButton</string>
+    <string name="title_activity_wifi">WIFI Activity</string>
+    <string name="title_activity_power_mannger">PowerMannger Activity</string>
+    <string name="title_activity_bt">BT Activity</string>
+    <string name="title_activity_key_event">KeyEventActivity</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+
+</resources>
